@@ -1,0 +1,4 @@
+1. create venv
+2. install all requirements
+3. create log folder in /home/ubuntu/
+4. add crontab to run crawl script
